@@ -42,27 +42,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Basic.executor": "Run",
-    "Python.IPL_Data_Ball_to_Ball.executor": "Run",
-    "Python.api.executor": "Run",
-    "Python.application_main.executor": "Run",
-    "Python.commonletters.executor": "Run",
-    "Python.fibonacci.executor": "Run",
-    "Python.frequency.executor": "Run",
-    "Python.mail.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.max_number.executor": "Run",
-    "Python.sortedfile.executor": "Run",
-    "Python.sortfile.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/Bigdata/Week 29 kafka/Kafka_project/Kafka_connect/Interviewprep/data"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.IPL_Data_Ball_to_Ball.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.application_main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.commonletters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frequency.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mail.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sortedfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sortfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/OneDrive/Desktop/Bigdata/Week 29 kafka/Kafka_project/Kafka_connect/Interviewprep/data&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\OneDrive\Desktop\Bigdata\Week 29 kafka\Kafka_project\Kafka_connect\Interviewprep\data" />
