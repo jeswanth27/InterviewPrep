@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c230e4a8-0135-4cb4-b3d9-ba78db29fbc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Kafka_connect.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IPL_Data_Ball_to_Ball.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Interviewprep/DataReader.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Interviewprep/Utils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Interviewprep/application_main.py" afterDir="false" />
@@ -20,8 +13,7 @@
       <change afterPath="$PROJECT_DIR$/Interviewprep/data/customers.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Interviewprep/data/orders.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Interviewprep/lib/ConfigReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +59,7 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/DELL/OneDrive/Desktop/Bigdata/Week 29 kafka/Kafka_project/Kafka_connect/Interviewprep/data"
   }
 }]]></component>
